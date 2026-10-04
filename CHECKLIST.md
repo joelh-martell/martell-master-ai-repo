@@ -285,3 +285,31 @@ These are ways the team actually uses AI. They are not in `publish/` because the
 - Function: prompting
 - Who to ask: Dan
 - Questions: Paste the custom instructions you actually use. Which tool? What word list do you ban?
+
+## Bot routines still missing a shareable prompt
+
+These exist, but they only run against private systems. Do not paste them until someone generalizes them.
+
+### Product
+Ask the product owner.
+- Weekly chat-transcript sync into a feedback board
+- Weekly form responses into a feedback board
+- Weekly product feedback report for a paid program
+- Weekly support tickets into a feedback board
+
+### Community
+Ask the community manager.
+- Daily community pulse. It only runs against one private community site, an admin API, and named staff roles.
+- Weekly community engagement report. Same private community, plus one CRM portal and a member lookup.
+
+### Operations
+Ask the chief of staff.
+- Weekday morning brief. It only works with a private channel list, fixed people, and that person's calendar and mail.
+- Meeting-notes capture into a private vault. It only works against one vault path and one machine.
+- End-of-day sweep into that same vault, plus the same private channel list.
+- Friday project update. It is one launch's status: a private channel, fixed dates, and a vault path.
+
+### No prompt yet
+- One event bot. Description is empty.
+- One book-launch bot. Description is empty.
+- One unused bot. Description is empty.
